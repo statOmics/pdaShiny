@@ -1,6 +1,6 @@
 # Specifying an R environment with a runtime.txt file
 
-RStudio: [![Binder](https://mybinder.org/v2/gh/statOmics/pdaShiny/master?urlpath=rstudio)
+RStudio: [![Binder](https://mybinder.org/v2/gh/statOmics/pdaShiny/master?urlpath=rstudio)]
 
 Binder supports using R and RStudio, with libraries pinned to a specific
 snapshot on [MRAN](https://mran.microsoft.com/documents/rro/reproducibility).
